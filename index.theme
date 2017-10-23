@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Sierra
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Sierra
+MetacityTheme=Arc-Sierra
+IconTheme=Arc-Sierra
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

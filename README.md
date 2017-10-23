@@ -1,3 +1,5 @@
+# arc-sierra
+
 Optimized theme for MATE 1.18 (Linux Mint 18.2) based on Arc Theme
 
 1) Copy all files in your theme directorio (~./themes/)
@@ -6,3 +8,4 @@ Optimized theme for MATE 1.18 (Linux Mint 18.2) based on Arc Theme
 
 
 Tereso Ramos ramosgt@me.com
+
