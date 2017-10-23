@@ -9,3 +9,4 @@ Optimized theme for MATE 1.18 (Linux Mint 18.2) based on Arc Theme
 
 Tereso Ramos ramosgt@me.com
 
+![Screenshot] (https://github.com/ramosgt/arc-sierra/blob/master/screenshot.jpg)
