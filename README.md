@@ -1,4 +1,4 @@
-# arc-sierra
+# Arc-Sierra
 
 Optimized theme for MATE 1.18 (Linux Mint 18.2) based on Arc Theme
 
@@ -9,4 +9,9 @@ Optimized theme for MATE 1.18 (Linux Mint 18.2) based on Arc Theme
 
 Tereso Ramos ramosgt@me.com
 
-![Screenshot] (https://github.com/ramosgt/arc-sierra/blob/master/screenshot.jpg)
+# Screenshot
+<div align="center">
+<a href="https://raw.githubusercontent.com/ramosgt/arc-sierra/master/screenshot.jpg">
+<img style="width:740px; height:auto;" src="https://raw.githubusercontent.com/ramosgt/arc-sierra/master/screenshot.jpg">
+</a>
+</div>
